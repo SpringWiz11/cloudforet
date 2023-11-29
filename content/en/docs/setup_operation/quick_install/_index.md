@@ -16,7 +16,7 @@ This Guide is not for production, but for developer only.
 | Distro     | Status       |
 | ---        | ---           |
 | Ubuntu 20.04    |  Not Tested   |
-| Ubuntu 22.04    |  Not Tested   |
+| Fedora 39    |  Not Tested   |
 | Amazon Linux 2  |  Not Tested      |
 | Amazon Linux 2023  | Not Tested    |
 | macOS (Apple Silicon, M1) | Not Tested |
