@@ -265,7 +265,7 @@ If all pods are in `Running` state, the setup is complete.
 Installing Cloudforet on minikube doesn't provide any Ingress objects such as Amazon ALB or NGINX ingress controller.
 We can use **kubectl port-forward** instead.
 
-Run the following commands for port forwarding.
+Run the following commands for port forwarding on different terminals.
 ~~~bash
 # CLI commands
 kubectl port-forward -n spaceone svc/console 8080:80 --address='0.0.0.0' &
